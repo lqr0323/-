@@ -1,1 +1,1 @@
-# -
+# -   我是纪大旺，是来自湖北师范大学一名大二的学生。本人对嵌入式开发比较感兴趣，也有一定的嵌入式开发基础，对软硬件都有一定的掌握，软件如：Keil5,Proteus,OpenmvIDE,Vscode,ArduinoIDE,Quartus II,STM32CubeIDE,MATLAB,Multisim。硬件如：嘉立创EDA,AD。对Linux系统，Ubuntu下的开发。但我主要是搞硬件和视觉,openmv,opencv,k210等，也了解TI(德州仪器)的一些芯片和软件 CCS，由于比赛需要。非常感谢RT-Thread，让我有机会参加本次夏令营，希望能够和老师同学们一起交流，学习到更多的知识，一起成长，共同进步
